@@ -10,3 +10,5 @@ AWS, Docker, Jenkins
 MSA, TDD, DDD
 ## 📖 자격증
 AWS Solutions Architect Associate
+## ✍️ 기술 블로그
+https://programmerjoon.tistory.com
