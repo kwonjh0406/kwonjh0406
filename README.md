@@ -7,7 +7,7 @@ Spring Boot, Java, MySQL, 그 외 간단한 프론트엔드
 ### Ops
 AWS, Docker, Jenkins
 ## 👀 관심 분야
-MSA, TDD, DDD
+MSA, DDD
 ## 📖 자격증
 AWS Solutions Architect Associate
 ## ✍️ 기술 블로그
