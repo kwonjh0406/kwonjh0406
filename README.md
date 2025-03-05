@@ -1,8 +1,8 @@
 ## 💁‍♂️ Introduction
-I'm a backend developer with a strong focus on AWS
+- I'm a backend developer with a strong focus on AWS.
 ## 🛠️ Tech
 - Java/Spring, RDBMS(MySQL), AWS, Docker, Jenkins
-## 🛠️ Skill
-- MSA, TDD
+## Interested
+- CAM, MSA, TDD
 ## ✍️ Blog
 https://programmerjoon.tistory.com
